@@ -1,2 +1,2 @@
 # git-pepe
-Enseñarle git a Pepe.
+Enseñarle git a Pepe
